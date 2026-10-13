@@ -38,7 +38,7 @@ minimal_mistakes_skin: "contrast"
 # settings for author profile
 author:
   name   : "Adam Bougher"
-  avatar : "/assets/images/victor-avatar.jpg"
+  avatar : "/assets/images/adam_headshot.webp"
   bio    : "Graduate assistant at 71North"
   location: "DeKalb, Illinois"
 
